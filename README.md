@@ -1,5 +1,5 @@
 # compiler
-23-1 compiler
+2023-1 컴파일러
 
 PA1 - 수정완료 (감점 후 수정이라 PA4 tokenizer.l 참고하길)
 
